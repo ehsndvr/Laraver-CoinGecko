@@ -1,0 +1,67 @@
+@font-face {
+    font-family: feather;
+    src: url(/wp-content/plugins/wordpress-header-plugin/assets/fonts/feather-fonts/feather.eot?t=1525787366991);
+    src: url(/wp-content/plugins/wordpress-header-plugin/assets/fonts/feather-fonts/feather.eot?t=1525787366991#iefix) format('embedded-opentype'), url(/wp-content/plugins/wordpress-header-plugin/assets/fonts/feather-fonts/feather.woff?t=1525787366991) format('woff'), url(/wp-content/plugins/wordpress-header-plugin/assets/fonts/feather-fonts/feather.ttf?t=1525787366991) format('truetype'), url(/wp-content/plugins/wordpress-header-plugin/assets/fonts/feather-fonts/feather.svg?t=1525787366991#feather) format('svg')
+}
+
+@font-face {
+    font-family: IRANSans;
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url(https://cdn.arzdigital.com/uploads/assets/fonts/eot/IRANSansWeb_Black.eot);
+    src: url(https://cdn.arzdigital.com/uploads/assets/fonts/eot/IRANSansWeb_Black.eot?#iefix) format('embedded-opentype'), url(https://cdn.arzdigital.com/uploads/assets/fonts/woff/IRANSansWeb_Black.woff) format('woff'), url(https://cdn.arzdigital.com/uploads/assets/fonts/woff2/IRANSansWeb_Black.woff2) format('woff2'), url(https://cdn.arzdigital.com/uploads/assets/fonts/ttf/IRANSansWeb_Black.ttf) format('truetype')
+}
+
+@font-face {
+    font-family: IRANSans;
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(https://cdn.arzdigital.com/uploads/assets/fonts/eot/IRANSansWeb_Bold.eot);
+    src: url(https://cdn.arzdigital.com/uploads/assets/fonts/eot/IRANSansWeb_Bold.eot?#iefix) format('embedded-opentype'), url(https://cdn.arzdigital.com/uploads/assets/fonts/woff/IRANSansWeb_Bold.woff) format('woff'), url(https://cdn.arzdigital.com/uploads/assets/fonts/woff2/IRANSansWeb_Bold.woff2) format('woff2'), url(https://cdn.arzdigital.com/uploads/assets/fonts/ttf/IRANSansWeb_Bold.ttf) format('truetype')
+}
+
+@font-face {
+    font-family: IRANSans;
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(https://cdn.arzdigital.com/uploads/assets/fonts/eot/IRANSansWeb_Medium.eot);
+    src: url(https://cdn.arzdigital.com/uploads/assets/fonts/eot/IRANSansWeb_Medium.eot?#iefix) format('embedded-opentype'), url(https://cdn.arzdigital.com/uploads/assets/fonts/woff/IRANSansWeb_Medium.woff) format('woff'), url(https://cdn.arzdigital.com/uploads/assets/fonts/woff2/IRANSansWeb_Medium.woff2) format('woff2'), url(https://cdn.arzdigital.com/uploads/assets/fonts/ttf/IRANSansWeb_Medium.ttf) format('truetype')
+}
+
+@font-face {
+    font-family: IRANSans;
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(https://cdn.arzdigital.com/uploads/assets/fonts/eot/IRANSansWeb_Light.eot);
+    src: url(https://cdn.arzdigital.com/uploads/assets/fonts/eot/IRANSansWeb_Light.eot?#iefix) format('embedded-opentype'), url(https://cdn.arzdigital.com/uploads/assets/fonts/woff/IRANSansWeb_Light.woff) format('woff'), url(https://cdn.arzdigital.com/uploads/assets/fonts/woff2/IRANSansWeb_Light.woff2) format('woff2'), url(https://cdn.arzdigital.com/uploads/assets/fonts/ttf/IRANSansWeb_Light.ttf) format('truetype')
+}
+
+@font-face {
+    font-family: IRANSans;
+    font-style: normal;
+    font-weight: 200;
+    font-display: swap;
+    src: url(https://cdn.arzdigital.com/uploads/assets/fonts/eot/IRANSansWeb_UltraLight.eot);
+    src: url(https://cdn.arzdigital.com/uploads/assets/fonts/eot/IRANSansWeb_UltraLight.eot?#iefix) format('embedded-opentype'), url(https://cdn.arzdigital.com/uploads/assets/fonts/woff/IRANSansWeb_UltraLight.woff) format('woff'), url(https://cdn.arzdigital.com/uploads/assets/fonts/woff2/IRANSansWeb_UltraLight.woff2) format('woff2'), url(https://cdn.arzdigital.com/uploads/assets/fonts/ttf/IRANSansWeb_UltraLight.ttf) format('truetype')
+}
+
+
+@font-face {
+    font-family: IRANSans;
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://cdn.arzdigital.com/uploads/assets/fonts/eot/IRANSansWeb.eot);
+    src: url(https://cdn.arzdigital.com/uploads/assets/fonts/eot/IRANSansWeb.eot?#iefix) format('embedded-opentype'), url(https://cdn.arzdigital.com/uploads/assets/fonts/woff/IRANSansWeb.woff) format('woff'), url(https://cdn.arzdigital.com/uploads/assets/fonts/woff2/IRANSansWeb.woff2) format('woff2'), url(https://cdn.arzdigital.com/uploads/assets/fonts/ttf/IRANSansWeb.ttf);
+}
+
+* {
+    font-family: inherit;
+}
+body{
+    font-family: iransans;
+}
