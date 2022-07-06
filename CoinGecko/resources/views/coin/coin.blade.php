@@ -33,7 +33,7 @@
                 <div class="tw-grid tw-grid-cols-2">
                     <div class="tw-col-span-2 md:tw-col-span-2">
                         <div class="tw-inline-flex tw-items-center tw-px-2 tw-py-0.5 tw-rounded-md tw-text-xs tw-font-medium tw-bg-gray-800 tw-text-gray-100 tw-mb-1 md:tw-mb-0 md:tw-mt-0 dark:tw-bg-gray-600 dark:tw-bg-opacity-40">
-                            Rank #1
+                            Rank #{{ $Response["market_cap_rank"] }}
                         </div>
                         <div class="tw-flex tw-text-gray-900 dark:tw-text-white tw-mt-2 tw-items-center">
                             <img class="tw-rounded-full" alt="{{ $Response['id'] }} Price ({{ $Response['symbol'] }})" height="28" width="28" src="{{ $Response['image']['large'] }}">
